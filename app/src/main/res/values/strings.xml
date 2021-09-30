@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FPU Calculator</string>
+    <string name="language_czech">Česky</string>
+    <string name="language_english">English</string>
+    <string name="first_fragment_label">FPU Calculator</string>
+    <string name="calculate_BT">Calculate</string>
+
+    <string name="carbs_TW">Carbs (g)</string>
+    <string name="proteins_TW">Proteins (g)</string>
+    <string name="fats_TW">Fats (g)</string>
+    <string name="PF_carbs_equi_TW">P+F carbs equivalent:</string>
+    <string name="ratio_TW">Carbs to FPU ratio:</string>
+    <string name="absorption_time_TW">Estimated time of absorption:</string>
+    <string name="clear_BT">Clear</string>
+    <string name="invalid_value_toast">Allowed values are 0 - 500</string>
+</resources>
